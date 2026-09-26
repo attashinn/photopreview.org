@@ -1,0 +1,1 @@
+- Keep the public site as a single image-led homepage with uploaded/CDN assets, because the portfolio depends on fast visual storytelling rather than route depth.
